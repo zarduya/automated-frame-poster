@@ -1,0 +1,5 @@
+python-dotenv
+cloudinary
+tqdm
+requests
+tweepy

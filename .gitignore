@@ -1,0 +1,20 @@
+# Ignore local environment and heavy folders
+.env
+__pycache__/
+*.pyc
+frames_project/
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore temp files
+*.log
+*.tmp
+*.bak
+state.json
