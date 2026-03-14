@@ -1,4 +1,4 @@
-# Automated Social Media Frame Poster
+# Automated Frame Poster
 
 A Python automation bot that uploads image frames to Cloudinary and posts them automatically to X (Twitter) at scheduled intervals.
 
