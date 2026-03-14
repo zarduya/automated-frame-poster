@@ -18,3 +18,4 @@ env/
 *.tmp
 *.bak
 state.json
+config.json
