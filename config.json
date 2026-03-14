@@ -1,3 +1,4 @@
 {
-  "cloudinary_url": "CLOUDINARY_URL=cloudinary://868643364248114:mSW0ZQ8Ot-O9p2BNQWPbbb2sF88@dmzssxsia"
+  "description": "Configuration template for the automation bot. Sensitive credentials such as CLOUDINARY_URL are not stored in this file and should be provided through environment variables.",
+  "cloudinary_url": "SET_THIS_AS_ENVIRONMENT_VARIABLE"
 }
